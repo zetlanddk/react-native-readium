@@ -1,6 +1,6 @@
 {
   "name": "react-native-readium",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A react-native wrapper for https://readium.org/",
   "main": "lib/src/index",
   "types": "lib/src/index.d.ts",
@@ -47,7 +47,7 @@
     "e-reader",
     "read"
   ],
-  "repository": "http://github.com/5-stones/react-native-readium",
+  "repository": "https://github.com/zetlanddk/react-native-readium",
   "author": "Jacob Spizziri <jspizziri@weare5stones.com> (https://github.com/jspizziri)",
   "license": "MIT",
   "bugs": {
